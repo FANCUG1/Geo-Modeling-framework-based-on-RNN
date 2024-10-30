@@ -13,7 +13,10 @@ We thank to the codes and core idea provided by Wang, Y., Wu, H., Zhang, J., Gao
 
 Preparation:
 Before running the program, we suggest to prepare the environment with Python 3.9, PyTorch 1.10.1, NumPy 1.23.5 and SciPy 1.9.3
+
 For running the program, you can firstly download the project and then prepare the dataset, and these training samples will be saved in the document called xxx, finally, you can start run.py to train the network
+
 The original dataset including both porous media sandstone and continuous fold structrual model are given at this link.
+
 The hyperparameter settings are included in run.py.
 
