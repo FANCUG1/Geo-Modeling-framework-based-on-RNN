@@ -1,6 +1,9 @@
 Article Information 
+
 Title: Automatic reconstruction of 3D geological models based on Recurrent Neural Network and predictive learning
+
 Author list: Wenyao Fan, Leonardo Azevedo, Gang Liu, Qiyu Chen, Xuechao Wu, Yang Li
+
 Affiliation: School of Computer Science, China University of Geosciences, Wuhan 430074, China & DER/CERENA, Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal
 
 Introduction:
