@@ -7,7 +7,7 @@ Author list: Wenyao Fan, Leonardo Azevedo, Gang Liu, Qiyu Chen, Xuechao Wu, Yang
 Affiliation: School of Computer Science, China University of Geosciences, Wuhan 430074, China & DER/CERENA, Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal
 
 Introduction:
-A geo-modeling framework based on SpatioTemporal LSTM framework. 
+A geo-modeling framework based on SpatioTemporal LSTM framework. Just like videoframe prediction, 3D geo-models can be regarded as a high-dimensional tensor composing multiple continuous 2D sections. Therefore, based on the geological sections at top layer, the remained sections at different dimensions can be predicted, and finally, a 3D geo-models can be obtained by stacking these predicted sections together.
 
 We thank to the codes and core idea provided by Wang, Y., Wu, H., Zhang, J., Gao, Z., Wang, J., Philip, S. Y., & Long, M. (2022). Predrnn: A recurrent neural network for spatiotemporal predictive learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(2), 2208-2225. The code herein we mainly referred is at the link: https://github.com/thuml/predrnn-pytorch
 
